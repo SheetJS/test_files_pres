@@ -1,0 +1,54 @@
+Slide 1 Title
+Slide 1 Subtitle
+Slide 2: Title and Content
+Bullet Point 1
+Bullet Point 2
+Sub-item A
+Sub-sub-item I
+Sub-sub-sub-item 1
+Sub-sub item ii
+Sub-item B
+Bullet Point 3
+Slide 3: Section header
+Section header subtext
+Slide 4: Two-Content
+Left 1
+Left 1A
+Left 1Ai
+Left 1Ai1
+Left 1Aii
+Left 1B
+Left 2
+Right 1
+You get the rest
+Slide 5: Comparison
+Left Side
+Left 1
+This is getting old
+Right Side
+Yep, really really old
+Ahh, just the title for Slide 6
+
+Slide 8: Content w/Caption
+This is the content
+Blah
+Blah
+Blah
+Blah
+Blah
+
+This is the caption text
+
+You know how this goes
+Slide 9: picture with caption
+This is the SheetJS logo, cropped
+Slide 10: Vertical Text
+Who thought this would be a good idea?
+
+Unfortunately the arrow keys act relative to the screen rather than the text
+
+The entire input situation is confusing
+Slide 11: Vertical Title and text
+Maybe this is for people who decide to lie down on conference room tables?
+
+… or maybe rotating the projector?  That seems so barbaric
